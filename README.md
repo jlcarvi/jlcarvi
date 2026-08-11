@@ -13,7 +13,6 @@ infrastructure-as-code (Terraform, Terragrunt).
 
 ## Scan highlights
 
-- **Role fit:** Senior Cloud Data Infrastructure Engineer / Platform Architect.
 - **Current work:** TucanBit technical consulting and portfolio engineering.
 - **Cloud certification:** AWS Certified Solutions Architect – Associate;
   preparing AWS Certified Solutions Architect – Professional.
@@ -28,11 +27,7 @@ infrastructure-as-code (Terraform, Terragrunt).
 
 ## Direction: emerging Space/GNSS specialization
 
-I am building a forward-looking bridge from distributed systems, telemetry/IoT,
-cloud data infrastructure, networking, signal processing, and
-positioning/coordinate systems toward GNSS and satellite data infrastructure.
-This is an emerging specialization supported by current training, not a claim of
-professional satellite or ground-segment experience.
+Expanding my distributed-systems, telemetry, positioning and cloud-platform expertise toward GNSS and satellite data infrastructure through the Joint Navigation Satellite Programme.
 
 ## What I build
 
@@ -165,7 +160,3 @@ the next engineer understand the system faster.
 - AWS credential:
   [Credly verification](https://www.credly.com/badges/ead47c5b-e271-4d7b-b8b0-003520da4ae3/linked_in?t=t8hinh)
 
-## Profile focus
-
-Secure cloud data infrastructure for IoT, distributed systems, observability,
-and high-availability platforms.
