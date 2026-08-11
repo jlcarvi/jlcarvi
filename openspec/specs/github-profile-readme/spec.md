@@ -25,7 +25,7 @@ The README MUST use English-only, neutral/professional language and MUST lead wi
 
 ### Requirement: Verified Public Facts
 
-The README MUST include only approved public facts: Bern, Switzerland; Spanish native, English fluent, French B1 conversational; AWS Certified Solutions Architect – Associate; preparing AWS Certified Solutions Architect – Professional; Joint Navigation Satellite Programme training starting September 2026; PhD in Distributed Systems and Wireless Sensor Networks at University of Bern; Faculty of Science prize for doctoral dissertation.
+The README MUST include only approved public facts: Fribourg, Switzerland; Spanish native, English fluent, French B1 conversational; AWS Certified Solutions Architect – Associate; preparing AWS Certified Solutions Architect – Professional; Joint Navigation Satellite Programme training starting September 2026; PhD in Distributed Systems and Wireless Sensor Networks at University of Bern; Faculty of Science prize for doctoral dissertation.
 
 #### Scenario: Public facts review
 
