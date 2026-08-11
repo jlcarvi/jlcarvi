@@ -1,0 +1,87 @@
+schema: spec-driven
+
+project:
+  key: githubprofile
+  name: githubProfile
+  artifact_store: openspec
+  deliverable: Professional GitHub profile README.md
+
+context: |
+  Tech stack: Markdown-only documentation project; no application runtime detected.
+  Architecture: Single deliverable repository for a professional GitHub profile README.md.
+  Testing: No automated test runner, coverage tool, linter, type checker, or formatter detected.
+  Style: English technical artifacts; Markdown content intended for GitHub profile presentation.
+
+strict_tdd: false
+
+testing:
+  detected_at: 2026-08-10
+  strict_tdd: false
+  strict_tdd_reason: No test runner or executable code stack was detected; README-only project.
+  test_runner:
+    available: false
+    framework: null
+    command: null
+  layers:
+    unit:
+      available: false
+      tool: null
+    integration:
+      available: false
+      tool: null
+    e2e:
+      available: false
+      tool: null
+  coverage:
+    available: false
+    command: null
+  quality_tools:
+    linter:
+      available: false
+      command: null
+    type_checker:
+      available: false
+      command: null
+    formatter:
+      available: false
+      command: null
+  evidence:
+    present:
+      - AGENTS.md
+      - .atl/skill-registry.md
+      - .atl/.skill-registry.cache.json
+    absent:
+      - package.json
+      - go.mod
+      - pyproject.toml
+      - Makefile
+      - .github/workflows/*
+
+rules:
+  proposal:
+    - Keep the scope focused on the GitHub profile README deliverable.
+    - Include intended audience, professional positioning, and rollback plan for visible content changes.
+  specs:
+    - Use Given/When/Then for scenarios.
+    - Use RFC 2119 keywords (MUST, SHALL, SHOULD, MAY).
+    - Treat README content quality, structure, and GitHub rendering as requirements.
+  design:
+    - Document content architecture and rationale before drafting large README sections.
+    - Prefer reviewable sections that fit the 400-line review budget.
+  tasks:
+    - Group by content phase and keep each task completable in one session.
+    - Keep review units small enough to evaluate wording, structure, and rendering separately.
+  apply:
+    tdd: false
+    test_command: ""
+    rules:
+      - Preserve English neutral/professional artifact language unless explicitly changed by the user.
+  verify:
+    test_command: ""
+    build_command: ""
+    coverage_threshold: 0
+    rules:
+      - Verify Markdown manually for structure, links, badges/images, accessibility text, and GitHub rendering assumptions.
+  archive:
+    - Preserve archived OpenSpec changes as an audit trail.
+    - Warn before merging destructive requirement deltas.

@@ -1,0 +1,5 @@
+# Local tooling (skill registry, agent caches)
+.atl/
+
+# OS noise
+.DS_Store
