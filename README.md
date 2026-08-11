@@ -3,7 +3,7 @@
 Senior Cloud Data Infrastructure Engineer / Platform Architect building secure,
 scalable, high-availability platforms for distributed, IoT, and data-intensive
 systems; from architecture and data flows to hands-on AWS and
-infrastructure-as-code (Terrafor, Terragrunt).
+infrastructure-as-code (Terraform, Terragrunt).
 
 [![AWS Certified Solutions Architect Associate credential badge](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/ead47c5b-e271-4d7b-b8b0-003520da4ae3/linked_in?t=t8hinh)
 [![Google Scholar research profile badge](https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=fuKyK-0AAAAJ&hl=en)
