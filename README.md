@@ -9,9 +9,7 @@ infrastructure-as-code (Terrafor, Terragrunt).
 [![Google Scholar research profile badge](https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=fuKyK-0AAAAJ&hl=en)
 [![LinkedIn professional profile badge](https://img.shields.io/badge/LinkedIn-jlcarvi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlcarvi/)
 
-Text-first proof, in case external badges do not render: AWS Certified Solutions
-Architect – Associate, PhD in Distributed Systems and Wireless Sensor Networks,
-Google Scholar research profile, and LinkedIn contact are all linked below.
+
 
 ## Scan highlights
 
@@ -159,8 +157,8 @@ the next engineer understand the system faster.
 
 ## Contact
 
-- Location: Bern, Switzerland.
-- Languages: Spanish native, English fluent, French B1 conversational.
+- Location: Fribourg, Switzerland.
+- Languages: English fluent, French B1 conversational, Spanish native.
 - LinkedIn: [linkedin.com/in/jlcarvi](https://www.linkedin.com/in/jlcarvi/)
 - Google Scholar:
   [scholar.google.com/citations?user=fuKyK-0AAAAJ](https://scholar.google.com/citations?user=fuKyK-0AAAAJ&hl=en)
