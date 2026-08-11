@@ -10,21 +10,31 @@ infrastructure-as-code.
 [![LinkedIn professional profile badge](https://img.shields.io/badge/LinkedIn-jlcarvi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlcarvi/)
 
 Text-first proof, in case external badges do not render: AWS Certified Solutions
-Architect – Associate, PhD in Computer Science, Google Scholar research profile,
-and LinkedIn contact are all linked below.
+Architect – Associate, PhD in Distributed Systems and Wireless Sensor Networks,
+Google Scholar research profile, and LinkedIn contact are all linked below.
 
 ## Scan highlights
 
 - **Role fit:** Senior Cloud Data Infrastructure Engineer / Platform Architect.
-- **Cloud certification:** AWS Certified Solutions Architect – Associate.
-- **Research foundation:** PhD in Computer Science with selected publications on
-  distributed, wireless, and data-intensive systems.
-- **Production scale:** Industrial IoT/cloud platform experience with
-  **8,000+ devices** and **3,000+ customers**.
+- **Current work:** TucanBit technical consulting and portfolio engineering.
+- **Cloud certification:** AWS Certified Solutions Architect – Associate;
+  preparing AWS Certified Solutions Architect – Professional.
+- **Research foundation:** PhD in Distributed Systems and Wireless Sensor
+  Networks, University of Bern.
+- **Production scale:** ComatReleco Industrial IoT/cloud platform experience
+  with **8,000+ devices** and **3,000+ customers**.
 - **Delivery style:** Architecture decisions connected to hands-on AWS,
   infrastructure-as-code, observability, and secure operations.
 - **Contact path:** Connect through
   [LinkedIn](https://www.linkedin.com/in/jlcarvi/).
+
+## Direction: emerging Space/GNSS specialization
+
+I am building a forward-looking bridge from distributed systems, telemetry/IoT,
+cloud data infrastructure, networking, signal processing, and
+positioning/coordinate systems toward GNSS and satellite data infrastructure.
+This is an emerging specialization supported by current training, not a claim of
+professional satellite or ground-segment experience.
 
 ## What I build
 
@@ -32,6 +42,10 @@ I design and implement cloud data infrastructure where reliability, security,
 and operations matter from day one. My work sits at the intersection of IoT
 device connectivity, event-driven AWS services, data persistence, observability,
 and platform automation.
+
+I currently combine technical consulting and portfolio engineering through
+TucanBit with continued development in AWS architecture and Space/GNSS-adjacent
+systems.
 
 I am strongest when a system needs both the architectural map and the execution
 detail: domain constraints, data flows, AWS service boundaries, infrastructure
@@ -86,11 +100,12 @@ Academic research complements the production platform work with deeper grounding
 in distributed systems, wireless systems, analytics, and data-intensive problem
 spaces.
 
-- PhD in Computer Science.
+- PhD in Distributed Systems and Wireless Sensor Networks, University of Bern.
 - Selected publications are available through
   [Google Scholar](https://scholar.google.com/citations?user=fuKyK-0AAAAJ&hl=en).
 - Research background supports architecture work where correctness, scale,
-  communication patterns, and data interpretation matter.
+  communication patterns, signal interpretation, and positioning-related data
+  matter.
 
 ### Digital Twin ColdRoom Monitoring dashboard
 
@@ -110,11 +125,13 @@ until the work is available publicly.
 - AWS Certified Solutions Architect – Associate.
 - Verification:
   [Credly badge](https://www.credly.com/badges/ead47c5b-e271-4d7b-b8b0-003520da4ae3/linked_in?t=t8hinh).
+- Preparing AWS Certified Solutions Architect – Professional.
+- Joint Navigation Satellite Programme training starting September 2026.
 
 ### Education and recognition
 
-- PhD in Computer Science.
-- Fakultätspreis 2019.
+- PhD in Distributed Systems and Wireless Sensor Networks, University of Bern.
+- Faculty of Science prize for doctoral dissertation.
 
 ### Publications
 
@@ -142,6 +159,8 @@ the next engineer understand the system faster.
 
 ## Contact
 
+- Location: Bern, Switzerland.
+- Languages: Spanish native, English fluent, French B1 conversational.
 - LinkedIn: [linkedin.com/in/jlcarvi](https://www.linkedin.com/in/jlcarvi/)
 - Google Scholar:
   [scholar.google.com/citations?user=fuKyK-0AAAAJ](https://scholar.google.com/citations?user=fuKyK-0AAAAJ&hl=en)
