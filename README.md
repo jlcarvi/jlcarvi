@@ -25,12 +25,8 @@ infrastructure-as-code (Terraform, Terragrunt).
 - **Contact path:** Connect through
   [LinkedIn](https://www.linkedin.com/in/jlcarvi/).
 
-## Direction: emerging Space/GNSS specialization
-
-Expanding my distributed-systems, telemetry, positioning and cloud-platform expertise toward GNSS and satellite data infrastructure through the Joint Navigation Satellite Programme.
-
-## What I build
-### 🚀 Highlighted Project: Serverless AWS IoT Device Simulator
+## What I am building
+### 🚀 Serverless AWS IoT Device Simulator
 
 I engineered a **100% serverless, event-driven IoT device simulator** designed to model large device fleets without running expensive 24/7 server infrastructure.
 
@@ -40,6 +36,10 @@ I engineered a **100% serverless, event-driven IoT device simulator** designed t
 
 🔧 **Tech Stack:** Python 3.12, Serverless Framework, AWS Lambda, AWS IoT Core, EventBridge, IAM Roles.
 🖥️ [View the Repository](https://github.com/jlcarvi/iam-dev-simulator)
+
+## Direction: emerging Space/GNSS specialization
+Expanding my distributed-systems, telemetry, positioning and cloud-platform expertise toward GNSS and satellite data infrastructure through the Joint Navigation Satellite Programme.
+
 ## Core skills
 
 ### Cloud and IoT architecture
