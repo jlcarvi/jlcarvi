@@ -1,6 +1,6 @@
 # José Luis Carrera Villacrés
 
-Senior Cloud Data Infrastructure Engineer / Platform Architect building secure,
+Senior Cloud Infrastructure Engineer / Platform Architect building secure,
 scalable, high-availability platforms for distributed, IoT, and data-intensive
 systems; from architecture and data flows to hands-on AWS and
 infrastructure-as-code (Terraform, Terragrunt).
