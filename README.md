@@ -30,21 +30,16 @@ infrastructure-as-code (Terraform, Terragrunt).
 Expanding my distributed-systems, telemetry, positioning and cloud-platform expertise toward GNSS and satellite data infrastructure through the Joint Navigation Satellite Programme.
 
 ## What I build
+### 🚀 Highlighted Project: Serverless AWS IoT Device Simulator
 
-I design and implement cloud data infrastructure where reliability, security,
-and operations matter from day one. My work sits at the intersection of IoT
-device connectivity, event-driven AWS services, data persistence, observability,
-and platform automation.
+I engineered a **100% serverless, event-driven IoT device simulator** designed to model large device fleets without running expensive 24/7 server infrastructure.
 
-I currently combine technical consulting and portfolio engineering through
-TucanBit with continued development in AWS architecture and Space/GNSS-adjacent
-systems.
+*   **Architecture & Cost Optimization:** Replaced looping container servers with a stateless, dual-trigger AWS Lambda model, reducing runtime costs to near-zero when idle.
+*   **State Sync Infrastructure:** Utilized **AWS IoT Core Device Shadows** instead of standard databases to leverage native cloud-to-hardware state handling (`desired` vs. `reported`).
+*   **Infrastructure as Code (IaC):** Automated provisioning for AWS Lambda, EventBridge Crons, and IoT SQL rules via the **Serverless Framework**.
 
-I am strongest when a system needs both the architectural map and the execution
-detail: domain constraints, data flows, AWS service boundaries, infrastructure
-as code, secure device communication, operational dashboards, and a deployment
-path that teams can maintain.
-
+🔧 **Tech Stack:** Python 3.12, Serverless Framework, AWS Lambda, AWS IoT Core, EventBridge, IAM Roles.
+🖥️ [View the Repository](https://github.com/jlcarvi/iam-dev-simulator)
 ## Core skills
 
 ### Cloud and IoT architecture
