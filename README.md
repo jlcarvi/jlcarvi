@@ -13,7 +13,8 @@ infrastructure-as-code (Terraform, Terragrunt).
 
 ## Scan highlights
 
-- **Current work:** TucanBit technical consulting and portfolio engineering.
+- **Current activities:** TucanBit technical consulting, portfolio engineering,
+  and expanding my cloud-platform expertise toward GNSS and satellite systems.
 - **Cloud certification:** AWS Certified Solutions Architect – Associate;
   preparing AWS Certified Solutions Architect – Professional.
 - **Research foundation:** PhD in Distributed Systems and Wireless Sensor
@@ -25,19 +26,54 @@ infrastructure-as-code (Terraform, Terragrunt).
 - **Contact path:** Connect through
   [LinkedIn](https://www.linkedin.com/in/jlcarvi/).
 
-## What I am building
-### 🚀 Serverless AWS IoT Device Simulator
+## Current personal project: Generic IoT integration
 
-I engineered a **100% serverless, event-driven IoT device simulator** designed to model large device fleets without running expensive 24/7 server infrastructure.
+I am building a public reference project for a generic IoT integration flow:
+device simulation, AWS IoT Core, device shadows, IoT Rules, and ThingsBoard as
+an interactive dashboard layer.
 
-*   **Architecture & Cost Optimization:** Replaced looping container servers with a stateless, dual-trigger AWS Lambda model, reducing runtime costs to near-zero when idle.
-*   **State Sync Infrastructure:** Utilized **AWS IoT Core Device Shadows** instead of standard databases to leverage native cloud-to-hardware state handling (`desired` vs. `reported`).
-*   **Infrastructure as Code (IaC):** Automated provisioning for AWS Lambda, EventBridge Crons, and IoT SQL rules via the **Serverless Framework**.
+The goal is to turn practical IoT/cloud architecture knowledge into something
+visible and reusable: how devices report state, how cloud-side desired state is
+handled, how IoT Rules route messages, and how operational data can be exposed
+through a live dashboard.
 
-🔧 **Tech Stack:** Python 3.12, Serverless Framework, AWS Lambda, AWS IoT Core, EventBridge, IAM Roles.
-🖥️ [View the Repository](https://github.com/jlcarvi/iam-dev-simulator)
+**Architecture:**
+
+```text
+Device simulator
+  -> AWS IoT Core
+  -> Device Shadow: desired / reported state
+  -> IoT Rules
+  -> ThingsBoard integration
+  -> Public interactive dashboard
+```
+
+- **Live dashboard:**
+  [ThingsBoard public demo](https://demo.thingsboard.io/dashboard/50942f00-3187-11f0-905b-715188ad2cd8?publicId=52bf0710-2953-11ef-9b56-a3c78ba98c39)
+  with a Blender-built 3D model representing a digital twin, room and exterior
+  temperature sensors, and five user-controlled actuators: freezer power, door
+  state, and three visual alarms. The actuators update the AWS IoT Core desired
+  shadow state,
+  which is then processed by the simulator and reported back through the IoT
+  flow.
+
+![ThingsBoard dashboard screenshot](assets/thingsboard-dashboard.png)
+
+- **Infrastructure:**
+  [iot-infra-aws-iac](https://github.com/jlcarvi/iot-infra-aws-iac) — AWS IoT
+  infrastructure as code with Terraform and Terragrunt.
+- **Device shadow flow:**
+  [sim-desired-status](https://github.com/jlcarvi/sim-desired-status) — desired
+  and reported state simulation using real AWS IoT Core shadow functionality.
+- **ThingsBoard integration:**
+  [tb-forwarded](https://github.com/jlcarvi/tb-forwarded) — integration between
+  the IoT data flow and the dashboard layer.
+- **Development simulator:**
+  [iam-dev-simulator](https://github.com/jlcarvi/iam-dev-simulator) — local
+  simulator for development and integration practice.
 
 ## Direction: emerging Space/GNSS specialization
+
 Expanding my distributed-systems, telemetry, positioning and cloud-platform expertise toward GNSS and satellite data infrastructure through the Joint Navigation Satellite Programme.
 
 ## Core skills
@@ -154,4 +190,3 @@ the next engineer understand the system faster.
   [scholar.google.com/citations?user=fuKyK-0AAAAJ](https://scholar.google.com/citations?user=fuKyK-0AAAAJ&hl=en)
 - AWS credential:
   [Credly verification](https://www.credly.com/badges/ead47c5b-e271-4d7b-b8b0-003520da4ae3/linked_in?t=t8hinh)
-
