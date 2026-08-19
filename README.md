@@ -9,24 +9,10 @@ infrastructure-as-code (Terraform, Terragrunt).
 [![Google Scholar research profile badge](https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=fuKyK-0AAAAJ&hl=en)
 [![LinkedIn professional profile badge](https://img.shields.io/badge/LinkedIn-jlcarvi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jlcarvi/)
 
-
-
-## Scan highlights
-
-- **Current activities:** TucanBit technical consulting, portfolio engineering,
-  and expanding my cloud-platform expertise toward GNSS and satellite systems.
-- **Cloud certification:** AWS Certified Solutions Architect – Associate;
-  preparing AWS Certified Solutions Architect – Professional.
-- **Research foundation:** PhD in Distributed Systems and Wireless Sensor
-  Networks, University of Bern.
-- **Production scale:** ComatReleco Industrial IoT/cloud platform experience
-  with **8,000+ devices** and **3,000+ customers**.
-- **Delivery style:** Architecture decisions connected to hands-on AWS,
-  infrastructure-as-code, observability, and secure operations.
 - **Contact path:** Connect through
   [LinkedIn](https://www.linkedin.com/in/jlcarvi/).
 
-## Current personal project: Generic IoT integration
+## Generic IoT integration (demo)
 
 I am building a public reference project for a generic IoT integration flow:
 device simulation, AWS IoT Core, device shadows, IoT Rules, and ThingsBoard as
